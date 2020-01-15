@@ -1,3 +1,9 @@
+#custom
+*.pem
+hellow.*
+index.php
+hidden/
+
 # Logs
 logs
 *.log
