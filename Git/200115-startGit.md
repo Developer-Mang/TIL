@@ -9,7 +9,7 @@ scm? source code management.
 - Tree : group of Blob
 - commit : log about modify something in blob
 
-### Bush comand
+### Bush command
 git status : print about git status
 git log : print about git and commit information
 
